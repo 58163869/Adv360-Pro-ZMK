@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/58163869
   projects:
     - name: zmk
-      remote: '58163869
+      remote: '58163869'
       revision: adv360-z3
       import: app/west.yml
   self:

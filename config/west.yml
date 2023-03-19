@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: refil
-      url-base: https://github.com/refil
+    - name: '58163869'
+      url-base: https://github.com/58163869
   projects:
     - name: zmk
       remote: refil

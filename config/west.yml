@@ -2,11 +2,11 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: '58163869'
+    - name: 58163869
       url-base: https://github.com/58163869
   projects:
     - name: zmk
-      remote: '58163869'
+      remote: 58163869
       revision: adv360-z3
       import: app/west.yml
   self:
